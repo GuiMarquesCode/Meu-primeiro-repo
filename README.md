@@ -1,2 +1,2 @@
 # Meu-primeiro-repo
-Esse repositorio é para aula de PI
+Esse repositorio é para aula de P.I.
